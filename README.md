@@ -12,6 +12,9 @@ This ruby file is meant to give printed output on the perlin noise land generati
 
 An arbitrary threshold is set to determine whether the tile generated will be a "Land" or "Water" tile. The threshold of "0.5" could also be randomly generated to add even more variety to the generation.
 
+### Python CLI Version
+worldSim.py is a remake of LandGen.rb but uses the terminal environment as the display.
+
 ## Screenshots 
 ![Successful LandGen.rb execution](Screenshots/LandGenSC.png)
 ![Successful Test.rb execution](Screenshots/TestSC.png)
