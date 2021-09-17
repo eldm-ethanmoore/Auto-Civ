@@ -18,6 +18,7 @@ worldSim.py is a remake of LandGen.rb but uses the terminal environment as the d
 ## Screenshots 
 ![Successful LandGen.rb execution](Screenshots/LandGenSC.png)
 ![Successful Test.rb execution](Screenshots/TestSC.png)
+![Successful worldSim.py execution](Screenshots/PythonWorldSimSC.png)
 
 ## Install Dependencies
 
