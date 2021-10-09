@@ -27,8 +27,8 @@ Ruby
 sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
 sudo apt install ruby
 sudo apt install ruby-dev
-sudo gem install ruby2d
-sudo gem install perlin_noise
+gem install ruby2d
+gem install perlin_noise
 ```
 Python
 ```
